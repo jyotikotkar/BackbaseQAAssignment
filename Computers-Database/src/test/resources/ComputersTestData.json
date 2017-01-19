@@ -1,0 +1,37 @@
+{
+	"Create":{
+		"computerName":"Dell-E5-573G-389U",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3",
+		
+	},
+	
+	"Read":{
+		"computerName":"Dell-E5-573G-389U",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3",
+		
+	},
+	
+	"Update":{
+		"computerName":"Apple-4z",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3",
+		
+	},
+	
+	
+	"Delete":{
+		"computerName":"Dell-E5-573G-389U",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3",
+		
+	},
+	
+	
+		
+}

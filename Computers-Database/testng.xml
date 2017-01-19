@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+ <suite name="Suite1" verbose="1" >
+  
+  <test name="CRUD_Test" >
+    <classes>
+       <class name="com.backbase.computersdatabase.tests.ComputersDatabaseCRUDTest" />
+    </classes>
+  </test>
+ 
+
+</suite>
